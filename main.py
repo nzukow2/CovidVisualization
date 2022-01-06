@@ -4,7 +4,8 @@ import numpy as np
 import matplotlib as plt
 
 #before import, install pandas and numpy modules at terminal
-# (windows uses "pip install", mac uses "pip3 --version")
+# windows uses "pip install pandas", "pip install matplotlib"
+# mac uses "pip3 install pandas" "pip3 install matplotlib"
 
 
 # CSV obtained from: https://github.com/owid/covid-19-data/tree/master/public/data
